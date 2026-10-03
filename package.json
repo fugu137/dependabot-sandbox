@@ -1,0 +1,33 @@
+{
+  "name": "dependabot-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/fugu137/dependabot-sandbox#readme",
+  "bugs": {
+    "url": "https://github.com/fugu137/dependabot-sandbox/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fugu137/dependabot-sandbox.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "chalk": "^6.0.1",
+    "commander": "^15.0.0",
+    "lodash": "^4.18.1",
+    "moment": "^2.31.0",
+    "react": "^19.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^10.12.0",
+    "prettier": "^3.9.9",
+    "typescript": "^7.0.2"
+  }
+}
